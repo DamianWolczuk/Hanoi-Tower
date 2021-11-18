@@ -1,0 +1,9 @@
+C:\Users\natal\Downloads\Hanoi_wolczuk\bin\Debug\Hanoi_wolczuk.exe
+C:\Users\natal\Downloads\Hanoi_wolczuk\bin\Debug\Hanoi_wolczuk.pdb
+C:\Users\natal\Downloads\Hanoi_wolczuk\obj\Debug\Hanoi_wolczuk.csproj.AssemblyReference.cache
+C:\Users\natal\Downloads\Hanoi_wolczuk\obj\Debug\Hanoi_wolczuk.Form1.resources
+C:\Users\natal\Downloads\Hanoi_wolczuk\obj\Debug\Hanoi_wolczuk.Properties.Resources.resources
+C:\Users\natal\Downloads\Hanoi_wolczuk\obj\Debug\Hanoi_wolczuk.csproj.GenerateResource.cache
+C:\Users\natal\Downloads\Hanoi_wolczuk\obj\Debug\Hanoi_wolczuk.csproj.CoreCompileInputs.cache
+C:\Users\natal\Downloads\Hanoi_wolczuk\obj\Debug\Hanoi_wolczuk.exe
+C:\Users\natal\Downloads\Hanoi_wolczuk\obj\Debug\Hanoi_wolczuk.pdb
